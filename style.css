@@ -1,0 +1,21 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: Roboto;
+	background: url(header.jpg) no-repeat top center fixed; 
+	background-size: cover;
+}
+
+.btn-primary {
+	background-color: #FC6100;
+	border-radius: 50px;
+	padding: 10px;
+	width: 250px;
+	border: none;
+	text-transform: uppercase;
+}
+
+.btn-primary:hover {
+	background-color: black;
+}
